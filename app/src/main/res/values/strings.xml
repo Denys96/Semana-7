@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Parcial_computo_1</string>
+    <string name="Principal">Pantalla principal</string>
+    <string name="Bienvenidad">Pantalla de bienvenida</string>
+    <string name="Variables">Pantalla de variables</string>
+    <string name="bPrincipal">REGRESAR A PANTALLA PRINCIPAL</string>
+    <string name="Alumnos">Proyecto elaborado por:</string>
+    <string name="Dedicatoria">El proyecto consta de multiples pantallas con diferentes activitys y en cada Activity se a desarrollado diferentes proyectos con el fin de que el usuario tenga una mejor experiencia y vea el resultado de un solo proyecto con mulples pantallas </string>
+    <string name="Alumno1">Denys Alexander Hernandez Maravilla</string>
+    <string name="Alumno2">Brandyn Eraldo Gonzalez Gomez</string>
+    <string name="titulo">REPRODUCTOR DE VIDEO</string>
+    <string name="sensor">SENSOR DE PROXIMIDAD</string>
+
+    <string name="titulo1">Impuesto Sobre la Renta</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Sueldo">Sueldo neto</string>
+    <string name="CALCULAR">bcalcular</string>
+
+    <string name="titulo2">Resultado del Impuesto sobre la Renta</string>
+    <string name="renta">Mostrar impuesto de Renta</string>
+    <string name="REGRESAR">regresar</string>
+    <string name="Nombre2">Su nombre es:</string>
+    <string name="Sueldo2">Sueldo neto es:</string>
+
+</resources>
